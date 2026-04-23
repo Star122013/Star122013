@@ -7,12 +7,8 @@
 
 
 
-- 🔭 I’m currently working on My web.
-- 🌱 I’m currently learning Golang and C++.
+- 🌱 I’m currently learning zig.
 - 😄 Pronouns: ...
-- 🎯 I'm interested in Blue Archive.
-
-<img src="./assets/1.gif" width="200" height="200">
 
 ---
 ### 💻 OS
@@ -35,7 +31,6 @@
 ### 💻 Terminal
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?logo=git&logoColor=white)
-![Alacritty](https://img.shields.io/badge/alacritty-F46D01?logo=alacritty&logoColor=white)
 ---
 ### 🧠 计划学习
 
